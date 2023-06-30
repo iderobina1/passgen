@@ -11,6 +11,7 @@ It was built with javascript.
 
 ## Deployed Site Link
 TO access the passgen go to the following link:
+https://iderobina1.github.io/passgen/
 
 
 
